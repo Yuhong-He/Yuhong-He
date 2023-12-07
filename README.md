@@ -40,7 +40,7 @@
 ### Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhong-He&layout=compact&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=yuhong-he&show_icons=true&theme=transparent)
+<!--![](https://github-readme-stats.vercel.app/api?username=yuhong-he&show_icons=true&theme=transparent)-->
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Yuhong-He&theme=dracula)
 
