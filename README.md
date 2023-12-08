@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yuhong.
 
-- 🏫 I’m a computer science student from UCD, Ireland.
+- 🏫 I’m a MSc Computer Science student at UCD, Ireland.
 - 🌱 I like to explore the world and I want to learn more technologies.
 - 📫 How to reach me: he@yuhong.me
 
