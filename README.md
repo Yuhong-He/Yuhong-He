@@ -43,6 +43,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Yuhong-He&theme=dracula)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/yuhong-he/count.svg) visitor,Thank You!
+You are my ![Visitor Count](https://profile-counter.glitch.me/yuhong-he/count.svg) visitor, Thank You!
 
 
